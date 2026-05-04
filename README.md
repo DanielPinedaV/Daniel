@@ -1,10 +1,10 @@
-# 👋 Hola, soy Daniel Pineda
+# Hola, soy Daniel Pineda
 
-🎓 Estudiante de Análisis y Desarrollo de Software en el SENA  
-💻 Apasionado por el desarrollo web y la programación  
-🚀 Enfocado en mejorar mis habilidades y crear proyectos funcionales  
+-Estudiante de Análisis y Desarrollo de Software en el SENA  
+-Apasionado por el desarrollo web y la programación  
+-Enfocado en mejorar mis habilidades y crear proyectos funcionales  
 
-## 🛠 Tecnologías
+## Tecnologías
 - HTML5
 - CSS3
 - JavaScript
@@ -12,4 +12,4 @@
 - MySQL
 
 ## 📂 Proyectos destacados
-- 📌 Frieren Character Blog (HTML & CSS)
+- Frieren Character Blog (HTML & CSS)
