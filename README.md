@@ -11,5 +11,5 @@
 - PHP
 - MySQL
 
-## 📂 Proyectos destacados
+## Proyectos destacados
 - Frieren Character Blog (HTML & CSS)
