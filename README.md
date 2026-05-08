@@ -13,3 +13,7 @@
 
 ## Proyectos destacados
 - Frieren Character Blog (HTML & CSS)
+- GlobalPETS, Sistema de Gestion Veterinaria (PHP)
+- Calculadora (JS)
+- TAM - Sistema de Tienda en Línea (HTML, CSS, PHP, JS...), en desarrollo.
+
